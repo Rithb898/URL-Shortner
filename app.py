@@ -52,6 +52,3 @@ def api_shorten_url():
     
     return jsonify({'result_url': request.host_url + short_url})
 
-
-if __name__ == '__main__':
-    app.run(debug=True)

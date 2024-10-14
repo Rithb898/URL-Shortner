@@ -59,7 +59,6 @@ pluggy==1.5.0
 poe-api-wrapper==1.6.0
 prompt_toolkit==3.0.47
 pvporcupine==1.9.5
-PyAudio==0.2.14
 pycparser==2.22
 pycryptodome==3.20.0
 pydantic==2.8.2
